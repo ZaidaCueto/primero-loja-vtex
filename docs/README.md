@@ -1,2 +1,2 @@
-# Primeira loja desenvovida na vtex.io
+# Primeira loja desenvolvida na vtex.io
 
